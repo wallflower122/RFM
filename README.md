@@ -22,7 +22,7 @@ In this repository, you'll find the code, documentation, and visualizations that
 
 2. **Install Dependencies**: Ensure you have the required libraries by installing them using `pip install -r requirements.txt`.
 
-3. **Run the Notebook**: Navigate to the notebook `Customer_Segmentation.ipynb` and run the cells sequentially. This notebook encapsulates our analysis, step by step.
+3. **Run the Notebook**: Navigate to the notebook `RFM_Clustering_for_Customer_Segmentation.ipynb` and run the cells sequentially. This notebook encapsulates our analysis, step by step.
 
 ### Results
 
