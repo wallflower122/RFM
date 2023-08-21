@@ -31,5 +31,6 @@ Our analysis culminates in a nuanced understanding of customer behavior within t
 ### Contributors
 
 - [Sneha](https://github.com/wallflower122)
+- [Anamitra](https://github.com/Lemon-Blue)
 
 Feel free to contribute, open issues, and explore the project further.
