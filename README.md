@@ -24,6 +24,9 @@ In this repository, you'll find the code, documentation, and visualizations that
 
 3. **Run the Notebook**: Navigate to the notebook `RFM_Clustering_for_Customer_Segmentation.ipynb` and run the cells sequentially. This notebook encapsulates our analysis, step by step.
 
+### Data
+The dataset used for this project is available [here](https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci)
+
 ### Results
 
 Our analysis culminates in a nuanced understanding of customer behavior within the UK online retail landscape. The derived customer segments provide actionable insights for strategic decision-making, personalized marketing approaches, and optimization of inventory management.
